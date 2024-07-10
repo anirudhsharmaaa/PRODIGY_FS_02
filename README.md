@@ -33,8 +33,8 @@ Ensure that you have the following software installed:
 * MySQL WorkBench
 
 ## contributor
-* Lyris Dsilva - [lyrisdsilva@gmail.com]
-* Linkedln - https://www.linkedin.com/in/lyris-dsilva-a23b94216/  
+* Anirudh Sharma - [anirudhsharmaaas@gmail.com]
+* Linkedln - [https://www.linkedin.com/in/anirudhsharmaaas/]
 Feel free to reach out with any questions or feedback!
 
 
